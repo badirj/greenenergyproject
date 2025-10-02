@@ -13,3 +13,22 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Firebase
+google-services.json
+!google-services.json.example
+
+# Compiled files
+*.apk
+*.ap_
+*.aab
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration
+local.properties
+
+# Log Files
+*.log
